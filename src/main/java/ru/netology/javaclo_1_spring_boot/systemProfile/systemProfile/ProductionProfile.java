@@ -1,4 +1,4 @@
-package ru.netology.javaclo_1_spring_boot.systemProfile;
+package ru.netology.javaclo_1_spring_boot.systemProfile.systemProfile;
 
 public class ProductionProfile implements SystemProfile {
     @Override

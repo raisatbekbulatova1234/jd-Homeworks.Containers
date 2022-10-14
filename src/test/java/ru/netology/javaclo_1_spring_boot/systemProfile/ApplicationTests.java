@@ -1,4 +1,4 @@
-package ru.netology.javaclo_1_spring_boot;
+package ru.netology.javaclo_1_spring_boot.systemProfile;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
